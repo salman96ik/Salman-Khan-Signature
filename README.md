@@ -61,7 +61,7 @@ I welcome opportunities for professional networking, knowledge exchange, and mea
 CONNECT WITH ME
 
 - GitHub: "salman96ik" (https://github.com/salman96ik)
-- LinkedIn: Add your professional LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/salman-khan-314a06247
 - Portfolio: Add your website when available
 - Location: Bangladesh
 
